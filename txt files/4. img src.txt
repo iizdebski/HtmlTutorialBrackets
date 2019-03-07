@@ -1,0 +1,10 @@
+<!doctype HTML>
+<html>    
+    <head>
+        <title>Brackets extensions</title>        
+    </head>      
+    <body>    
+        <img src="pictures/funny%20picture.jpg"      
+             
+    </body>            
+</html>

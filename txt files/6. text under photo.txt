@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+  
+    
+  <title></title>
+</head>
+
+<body>
+    <figure>
+        
+        <img src="pictures/funny%20picture.jpg" alt="Kevin Hart">
+        <figcaption>Kevin is the best</figcaption>
+    
+    </figure>
+</body>
+</html>

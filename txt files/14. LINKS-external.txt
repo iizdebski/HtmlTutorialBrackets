@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>     
+  <title>LINKS - External</title>
+</head>
+
+<body> 
+    <a href="http://www.google.com" target="_blank">Monkey</a>    
+    <a href="info.html" target="_blank">Info</a>  
+    <a href="images.html" target="_blank">Images</a>  
+</body>
+</html>

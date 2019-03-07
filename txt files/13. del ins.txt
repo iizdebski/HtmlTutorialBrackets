@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>     
+  <title>Paragraphs-Working with Text: Sup and Sub</title>
+</head>
+
+<body> 
+    <address>
+    <p>jako@hotmail.com</p>
+        <p>6000 w <del>Montrose</del> <ins>Cicero</ins> Chicago IL 60743</p>
+    </address>
+</body>
+</html>

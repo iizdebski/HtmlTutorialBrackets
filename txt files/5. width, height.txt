@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+  
+    
+  <title></title>
+</head>
+
+<body>
+    <img src="pictures/funny%20picture.jpg" alt="Kevin Hart"
+         width="290" height="200">>
+    
+     <img src="pictures/vladimir.jpg" alt="VLADIMIR" 
+          width="290" height="200">
+  
+</body>
+</html>
